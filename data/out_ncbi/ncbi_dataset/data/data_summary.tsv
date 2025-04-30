@@ -1,0 +1,11 @@
+Nombre compuesto	Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Myxococcus xanthus DK 1622 GCA_000012685.1	Myxococcus xanthus DK 1622		strain: DK 1622	246197	ASM1268v1	GCA_000012685.1	GenBank	Annotation submitted by The Institute for Genomic Research	Complete Genome	9139763	9139763	07/06/06	7456	PRJNA1421	SAMN02604018
+Bdellovibrio bacteriovorus HD100 GCA_000196175.1	Bdellovibrio bacteriovorus HD100		strain: HD100	264462	ASM19617v1	GCA_000196175.1	GenBank	Annotation submitted by Max-Planck-Institute	Complete Genome	3782950	3782950	10/02/04	4621	PRJNA9637	SAMEA3138335
+Myxococcus hansupus GCA_000280925.3	Myxococcus hansupus		strain: mixupus	1297742	ASM28092v3	GCA_000280925.3	GenBank	Annotation submitted by Institute of Microbial Technology	Complete Genome	9490432	9490432	16/07/15	7832	PRJNA167109	SAMN02469988
+Myxococcus stipitatus DSM 14675 GCA_000331735.1	Myxococcus stipitatus DSM 14675		strain: DSM 14675	1278073	ASM33173v1	GCA_000331735.1	GenBank	Annotation submitted by Max Planck Institute for Terrrestrial Microbiology	Complete Genome	10350586	10350586	14/01/13	8128	PRJNA185255	SAMN02603594
+Bdellovibrio reynosensis GCA_022814725.1	Bdellovibrio reynosensis		strain: LBG001	2835041	ASM2281472v1	GCA_022814725.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	3582323	3582323	04/04/22	3339	PRJNA813689	SAMN26514579
+															
+															
+															
+															
+															

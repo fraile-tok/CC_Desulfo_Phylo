@@ -1,0 +1,56 @@
+Nombre compuesto	Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Desulfosudis oleivorans Hxd3 GCA_000018405.1	Desulfosudis oleivorans Hxd3		strain: Hxd3	96561	ASM1840v1	GCA_000018405.1	GenBank	Annotation submitted by US DOE Joint Genome Institute (JGI-PGF)	Complete Genome	3944167	3944167	19/10/07	3323	PRJNA18007	SAMN00623035
+Desulforapulum autotrophicum HRM2 GCA_000020365.1	Desulforapulum autotrophicum HRM2		strain: HRM2	177437	ASM2036v1	GCA_000020365.1	GenBank	Annotation submitted by Goettingen Genomics Laboratory	Complete Genome	5589073	5657782	18/02/09	5021	PRJNA20931	SAMN02603282
+Desulfatibacillum aliphaticivorans GCA_000021905.1	Desulfatibacillum aliphaticivorans		strain: AK-01	218208	ASM2190v1	GCA_000021905.1	GenBank	Annotation submitted by US DOE Joint Genome Institute (JGI-PGF)	Complete Genome	6517073	6517073	24/12/08	5361	PRJNA19449	SAMN00000039
+Desulfobacula toluolica Tol2 GCA_000307105.1	Desulfobacula toluolica Tol2		strain: Tol2	651182	ASM30710v1	GCA_000307105.1	GenBank	Annotation submitted by Max Planck Society	Complete Genome	5197905	5197905	17/09/12	4396	PRJEA38433	SAMEA2272293
+Desulfococcus multivorans GCA_001854245.1	Desulfococcus multivorans		strain: DSM 2059	897	ASM185424v1	GCA_001854245.1	GenBank	"Annotation submitted by Federal Research Institute for Rural Areas, Forestry, and Fisheries, Thuenen Institute of Forest Genetics"	Complete Genome	4455399	4455399	26/10/16	4000	PRJNA310394	SAMN04893606
+Desulfococcus multivorans GCA_002009335.2	Desulfococcus multivorans		strain: DSM 2059	897	ASM200933v2	GCA_002009335.2	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	4455976	4455976	08/03/17	3927	PRJNA376441	SAMN06392868
+Desulfosarcina alkanivorans GCA_009688945.1	Desulfosarcina alkanivorans		strain: PL12	571177	ASM968894v1	GCA_009688945.1	GenBank	"Annotation submitted by The Institute of Low Temperature Science, Hokkaido University"	Complete Genome	7324708	7324708	07/11/19	6574	PRJDB8884	SAMD00190778
+Desulfosarcina widdelii GCA_009688965.1	Desulfosarcina widdelii		strain: PP31	947919	ASM968896v1	GCA_009688965.1	GenBank	"Annotation submitted by The Institute of Low Temperature Science, Hokkaido University"	Complete Genome	7297718	7297718	07/11/19	6807	PRJDB8884	SAMD00190779
+Desulfosarcina ovata subsp. sediminis GCA_009688985.1	Desulfosarcina ovata subsp. sediminis		strain: 28bB2T	885957	ASM968898v1	GCA_009688985.1	GenBank	"Annotation submitted by The Institute of Low Temperature Science, Hokkaido University"	Complete Genome	8261151	8413530	13/11/19	7448	PRJDB8884	SAMD00190780
+Desulfosarcina ovata subsp. ovata GCA_009689005.1	Desulfosarcina ovata subsp. ovata		strain: oXyS1	2752305	ASM968900v1	GCA_009689005.1	GenBank	"Annotation submitted by The Institute of Low Temperature Science, Hokkaido University"	Complete Genome	7630248	7630248	13/11/19	6750	PRJDB8884	SAMD00191394
+Desulfonema limicola GCA_017377355.1	Desulfonema limicola		strain: 5ac10	45656	ASM1737735v1	GCA_017377355.1	GenBank	Annotation submitted by Carl von Ossietzky University of Oldenburg	Complete Genome	6908045	6908045	17/03/21	6292	PRJNA660367	SAMN15947216
+Desulfonema magnum GCA_017377395.1	Desulfonema magnum		strain: 4be13	45655	ASM1737739v1	GCA_017377395.1	GenBank	Annotation submitted by Carl von Ossietzky University of Oldenburg	Complete Genome	8027777	8027777	17/03/21	10044	PRJNA660368	SAMN15947215
+Desulfoluna limicola GCA_021654575.1	Desulfoluna limicola		strain: ASN36	2810562	ASM2165457v1	GCA_021654575.1	GenBank	Annotation submitted by Hokkaido University	Complete Genome	6263790	6263790	02/12/21	5079	PRJDB11192	SAMD00280670
+Desulfosarcina sp. BuS5 GCA_028752835.1	Desulfosarcina sp. BuS5		strain: BuS5	933262	ASM2875283v1	GCA_028752835.1	GenBank	Annotation submitted by Helmholtz Centre for Environmental Research GmbH - UFZ	Complete Genome	4066517	4175088	21/02/23	4103	PRJNA780815	SAMN23180764
+Desulfobacter sp. GCA_028768525.1	Desulfobacter sp.		isolate: BMAN-1	2294	ASM2876852v1	GCA_028768525.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	6044721	6044721	22/02/23	5330	PRJNA634776	SAMN15006955
+Desulfobacter sp. GCA_028768545.1	Desulfobacter sp.		isolate: Buss2-1	2294	ASM2876854v1	GCA_028768545.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	4958664	4958664	22/02/23	4825	PRJNA634776	SAMN15006956
+Desulfosarcina variabilis str. Montpellier GCA_048565275.1	Desulfosarcina variabilis str. Montpellier		strain: Montpellier	859321	ASM4856527v1	GCA_048565275.1	GenBank	"Annotation submitted by ICBM General and Molecular Microbiology, Carl von Ossietzky Universitaet Oldenburg"	Complete Genome	9639276	9639276	12/03/25	8638	PRJNA319746	SAMN04903901
+Desulfobacterales bacterium GCA_963662235.1	Desulfobacterales bacterium		isolate: 4b48c405-a8b0-44ce-a896-9916d3c4254b	2044940	piMetSpee1.Desulfobacterales_5.1	GCA_963662235.1	GenBank		Complete Genome	2133799	2133799	17/11/23		PRJEB69036	SAMEA114407044
+Desulfatiglandales bacterium GCA_963662465.1	Desulfatiglandales bacterium		isolate: ef928343-fb2c-4ac1-bd77-a4af7a033044	3024416	piMetSpee1.Desulfatiglandales_4.1	GCA_963662465.1	GenBank		Complete Genome	8161625	8161625	17/11/23		PRJEB69036	SAMEA114407039
+uncultured Desulfobacter sp. GCA_963662595.1	uncultured Desulfobacter sp.		isolate: d0620cd2-44ed-4ad5-9930-dc425a2a51ce	240139	piMetSpee1.Desulfobacter_sp_3.1	GCA_963662595.1	GenBank		Complete Genome	5795500	5795500	17/11/23		PRJEB69036	SAMEA114407047
+uncultured Desulfospira sp. GCA_963663165.1	uncultured Desulfospira sp.		isolate: 271fe3a7-c87a-42bf-b72a-f39fa9e244f5	232702	piMetSpee1.Desulfospira_sp_1.1	GCA_963663165.1	GenBank		Complete Genome	6741034	6741034	17/11/23		PRJEB69036	SAMEA114407049
+uncultured Desulfobacter sp. GCA_963665095.1	uncultured Desulfobacter sp.		isolate: 00b13672-1c6a-4f01-9bd3-5d9cfdb0d95e	240139	piMetSpea1.Desulfobacter_sp_1.1	GCA_963665095.1	GenBank		Complete Genome	6906358	6906358	17/11/23		PRJEB69056	SAMEA114406776
+Desulfobacterales bacterium GCA_963665135.1	Desulfobacterales bacterium		isolate: 06740738-a7bd-4baa-85b3-74b223bbbbd0	2044940	piMetPara1.Desulfobacterales_2.1	GCA_963665135.1	GenBank		Complete Genome	6107701	6107701	17/11/23		PRJEB67035	SAMEA114406679
+uncultured Desulfobacter sp. GCA_963666145.1	uncultured Desulfobacter sp.		isolate: 121313e4-3434-4db3-9afb-10c2c3572a05	240139	piMetSpee1.Desulfobacter_sp_2.1	GCA_963666145.1	GenBank		Complete Genome	6324575	6324575	17/11/23		PRJEB69036	SAMEA114407046
+Desulfatiglandales bacterium GCA_963666345.1	Desulfatiglandales bacterium		isolate: 7b555824-8626-4373-9f6d-e46e1e23d1ce	3024416	piMetSpee1.Desulfatiglandales_2.1	GCA_963666345.1	GenBank		Complete Genome	4162108	4162108	17/11/23		PRJEB69036	SAMEA114407038
+uncultured Desulfobacter sp. GCA_963666675.1	uncultured Desulfobacter sp.		isolate: ab583996-6c72-41ec-a8bc-7a43732d896d	240139	piMetSpec1.Desulfobacter_sp_1.1	GCA_963666675.1	GenBank		Complete Genome	6482017	6482017	17/11/23		PRJEB67189	SAMEA114406865
+uncultured Desulfobacterium sp. GCA_963674605.1	uncultured Desulfobacterium sp.		isolate: 2c08e38e-77a0-468a-b8ca-c683eacf49f2	201089	piMetSpef1.Desulfobacterium_sp_1.1	GCA_963674605.1	GenBank		Complete Genome	6061752	6061752	17/11/23		PRJEB69416	SAMEA114503694
+uncultured Desulfosarcina sp. GCA_963674765.1	uncultured Desulfosarcina sp.		isolate: c75788b4-9dc9-432e-af07-dc879bdb42fc	218289	piMetSpef1.Desulfosarcina_sp_1.1	GCA_963674765.1	GenBank		Complete Genome	7662290	7662290	17/11/23		PRJEB69416	SAMEA114503683
+uncultured Desulfobacter sp. GCA_963675255.1	uncultured Desulfobacter sp.		isolate: 6579293f-26f5-4e71-a9db-d48b61c722da	240139	piTriSpea1.Desulfobacter_sp_1.1	GCA_963675255.1	GenBank		Complete Genome	5141290	5141290	17/11/23		PRJEB69548	SAMEA114409195
+Desulfobacterales bacterium GCA_963675485.1	Desulfobacterales bacterium		isolate: b599e3c4-2ca3-45e6-bc7f-bb04c01707dc	2044940	piTriSpea1.Desulfobacterales_1.1	GCA_963675485.1	GenBank		Complete Genome	7437707	7437707	18/11/23		PRJEB69548	SAMEA114409196
+Desulfobacterales bacterium GCA_963675715.1	Desulfobacterales bacterium		isolate: 4b92870f-ba81-4c82-9d98-8a89c3612312	2044940	piMetSpef1.Desulfobacterales_1.1	GCA_963675715.1	GenBank		Complete Genome	7364975	7364975	18/11/23		PRJEB69416	SAMEA114503684
+uncultured Desulfobacterium sp. GCA_963676925.1	uncultured Desulfobacterium sp.		isolate: b5edb3ca-a369-423b-9e9e-493c49de4e5b	201089	piPlaSpea1.Desulfobacterium_sp_1.1	GCA_963676925.1	GenBank		Complete Genome	5769677	5769677	18/11/23		PRJEB69759	SAMEA114407673
+uncultured Desulfobacter sp. GCA_963677125.1	uncultured Desulfobacter sp.		isolate: d1cfb46f-64c6-49bd-9162-13cddd374643	240139	piPlaSpec1.Desulfobacter_sp_1.1	GCA_963677125.1	GenBank		Complete Genome	6067025	6067025	18/11/23		PRJEB69780	SAMEA114407732
+uncultured Desulfobacter sp. GCA_965140745.1	uncultured Desulfobacter sp.		isolate: 6c515263-4ca9-4785-8cb0-20be41d20dde	240139	piPlaSpeb1.Desulfobacter_sp_1.1	GCA_965140745.1	GenBank		Complete Genome	137544	6687933	11/02/25		PRJEB85473	SAMEA114501237
+Desulfobacteraceae bacterium GCA_965226635.1	Desulfobacteraceae bacterium		isolate: eda27e51-6729-4144-ada2-54b8f0e2c651	2049433	jaAcrCyth1.Desulfobacteraceae_1.1	GCA_965226635.1	GenBank		Complete Genome	5306180	5306180	27/03/25		PRJEB86279	SAMEA117735851
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
